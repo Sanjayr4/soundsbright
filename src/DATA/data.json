@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Alphine",
+        "model": "ilx w650",
+        "price": "22,500",
+        "img": "speaker1.jpg",
+        "originalPrice": "38,000",
+        "SpeakerSize": "6 1/2",
+        "DriverDesign": "2-way",
+        "WooferDesign": "Cone",
+        "WooferMaterial": "DFS",
+        "WooferSurround": "Butyl Rubber",
+        "TweeterDesign": "Inverted Dome",
+        "TweeterMaterial": "Aluminum",
+        "ImpedanceOhms": 4,
+        "WeatherResistant": false,
+        "GrillesIncluded": [
+            "Black",
+            "Metal mesh",
+            "Plastic frame"
+        ],
+        "PartsWarranty": "1 Year",
+        "LaborWarranty": "1 Year",
+        "Sensitivity1W1M": 87.25,
+        "Sensitivity2_83V": 91.3,
+        "FrequencyResponseHz": "60 - 20k",
+        "MaximumRMSWattage": 60,
+        "PeakPowerHandlingWatts": 120,
+        "TopMountDepthInches": 2.5625,
+        "CutoutDiameterInches": 5.5625,
+        "MountingHeightInches": 0.38,
+        "FrameWidthInches": 6.482,
+        "FrameLengthInches": 6.482
+    },
+    {
+        "id": 2,
+        "name": "Alphine ",
+        "model": "ilx 702d",
+        "price": "34,999",
+        "img": "speaker2.jpg",
+        "originalPrice": "75,000",
+        "SpeakerSize": "6 1/2",
+        "DriverDesign": "6-way",
+        "WooferDesign": "Cone",
+        "WooferMaterial": "DFS",
+        "WooferSurround": "Butyl Rubber",
+        "TweeterDesign": "Inverted Dome",
+        "TweeterMaterial": "Aluminum",
+        "ImpedanceOhms": 4,
+        "WeatherResistant": false,
+        "GrillesIncluded": [
+            "Black",
+            "Metal mesh",
+            "Plastic frame"
+        ],
+        "PartsWarranty": "2 Year",
+        "LaborWarranty": "1 Year",
+        "Sensitivity1W1M": 87.25,
+        "Sensitivity2_83V": 91.3,
+        "FrequencyResponseHz": "60 - 20k",
+        "MaximumRMSWattage": 60,
+        "PeakPowerHandlingWatts": 120,
+        "TopMountDepthInches": 2.5625,
+        "CutoutDiameterInches": 5.5625,
+        "MountingHeightInches": 0.38,
+        "FrameWidthInches": 6.482,
+        "FrameLengthInches": 6.482
+    },
+    {
+        "id": 3,
+        "name": "Alphine",
+        "model": "CDE W265BT",
+        "price": "12,500",
+        "img": "speaker3.jpg",
+        "originalPrice": "27,500",
+        "SpeakerSize": "6 1/2",
+        "DriverDesign": "2-way",
+        "WooferDesign": "Cone",
+        "WooferMaterial": "DFS",
+        "WooferSurround": "Butyl Rubber",
+        "TweeterDesign": "Inverted Dome",
+        "TweeterMaterial": "Aluminum",
+        "ImpedanceOhms": 4,
+        "WeatherResistant": false,
+        "GrillesIncluded": [
+            "Black",
+            "Metal mesh",
+            "Plastic frame"
+        ],
+        "PartsWarranty": "1 Year",
+        "LaborWarranty": "1 Year",
+        "Sensitivity1W1M": 87.25,
+        "Sensitivity2_83V": 91.3,
+        "FrequencyResponseHz": "60 - 20k",
+        "MaximumRMSWattage": 60,
+        "PeakPowerHandlingWatts": 120,
+        "TopMountDepthInches": 2.5625,
+        "CutoutDiameterInches": 5.5625,
+        "MountingHeightInches": 0.38,
+        "FrameWidthInches": 6.482,
+        "FrameLengthInches": 6.482
+    },
+    {
+        "id": 4,
+        "name": "Alphine",
+        "model": "CDE 133BT",
+        "price": "9,000",
+        "img": "speaker4.jpg",
+        "originalPrice": "18,000"
+    },
+    {
+        "id": 5,
+        "name": "Alphine",
+        "model": "INE-W957HD",
+        "price": "32,500",
+        "img": "speaker5.jpg",
+        "originalPrice": "75,000"
+    },
+    {
+        "id": 6,
+        "name": "Alphine",
+        "model": "CDE 123",
+        "price": "7,000",
+        "img": "speaker6.jpg",
+        "originalPrice": "15,000"
+    },
+    {
+        "id": 7,
+        "name": "Pioneer",
+        "model": "AVH-2400NEX 7",
+        "price": "20,000",
+        "img": "speaker7.jpg",
+        "originalPrice": "45,000"
+    },
+    {
+        "id": 8,
+        "name": "Pioneer",
+        "model": "DMH-2600NEX",
+        "price": "18,000",
+        "img": "speaker8.jpg",
+        "originalPrice": "35,000"
+    }
+]
+
+
+
