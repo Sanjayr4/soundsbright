@@ -1,12 +1,36 @@
-# React + Vite
+# 🎧 SoundsBright
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern e-commerce website built for showcasing and selling car audio systems. This project demonstrates a full-stack implementation with user interaction, email functionality, and dynamic product rendering.
 
-Currently, two official plugins are available:
+⸻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Live Site
 
-## Expanding the ESLint configuration
+👉 Visit SoundsBright
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⸻
+
+# 🛍️ Key Product Category
+	•	🚗 Car Audio Systems
+
+## ✨ Features
+	•	🖼️ Product display with responsive UI
+	•	📩 Contact form with integrated Nodemailer for sending emails
+	•	🔐 Backend handling with Express.js
+	•	⚡ Fast, single-page app performance via React.js
+
+⸻
+
+# 🛠️ Tech Stack
+
+## 🚀 Frontend
+	•	React.js – Component-based UI framework for building fast, interactive user interfaces
+
+## 🔧 Backend
+	•	Node.js – JavaScript runtime for server-side logic
+	•	Express.js – Web framework for building RESTful APIs
+
+## 📬 Email Service
+	•	Nodemailer – Sends emails from the contact form to a configured inbox
+
+ 
