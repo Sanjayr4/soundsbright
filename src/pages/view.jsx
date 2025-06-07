@@ -32,7 +32,7 @@ export default function View() {
                             <p style={{fontWeight:'bolder', fontSize:'1.5rem'}}>{item.name} {item.model}</p>
                             <p style={{ fontSize:'1.5rem'}}> &#8377; {item.price}  <s style={{ textDecoration: "line-through", color: 'grey', fontSize: "1.3rem", fontWeight: "lighter" }}>{`₹${item.originalPrice}`}</s></p>
                             <div className="orderButton">
-                                <button type='button'onClick={() => navigate(`/order/${id}`)} style={{fontWeight:"bold"}} > Buy Now </button>
+                                <button type='button'onClick={() => navigate(`/order/${id}`)} style={{fontWeight:"bold"}} > Book Now </button>
                             </div>
                         </div>
                         <div className="specification">
